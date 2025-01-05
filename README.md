@@ -37,4 +37,6 @@ This machine learning project predicts whether a bank loan application will be a
 - ```Bank Loan Approval Classification.ipynb```: Complete project notebook, including EDA, preprocessing, model training, and evaluation.
 - ```Bank Loan Approval Classification.pkl```: Dumped file of the final optimized model.
 # How to Run
-```git clone https://github.com/shubhu111/bank-loan-approval-classification.git```
+```
+git clone https://github.com/shubhu111/bank-loan-approval-classification.git
+```
